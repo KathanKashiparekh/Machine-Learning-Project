@@ -1,5 +1,7 @@
 # Machine-Learning-Project
-Multi digit number sequence prediction on Google Street View House Numbers dataset.
+Project done in partial fulfilemt of Machine Learning (BITS F464) course.
+
+# Multi digit number sequence prediction on Google Street View House Numbers dataset.
 
 Tried to implement the paper by Ian Goodfellow[1] to detect number sequences in the Google SVHN dataset[2].
 Used Convolution Neural Networks to learn intricate details present in the given images to improve prediciton accuracy.
