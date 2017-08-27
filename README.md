@@ -12,7 +12,7 @@ Basic model had the following layout:
 
 4 convolution layers followed by one fully connected layer and then 7 softmax classifiers. One for predciting the number of digits in the image and the other 6 to predict a particular digit. Implicit assumption that sequence won't be of more than 6 digits.
 
-Max pooling was done at the 2nd and 4th convolution layers.
+Max pooling was done at the 2nd,4th and 5th convolution layers.
 
 
 
