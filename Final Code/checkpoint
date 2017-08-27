@@ -1,0 +1,2 @@
+model_checkpoint_path: "letsago.ckpt"
+all_model_checkpoint_paths: "letsago.ckpt"
